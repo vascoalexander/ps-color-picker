@@ -3,6 +3,8 @@
 
 A simple Color Picker Script
 
+![PSColorpickerGui](https://raw.githubusercontent.com/vascoalexander/ps-color-picker/master/PSCGui.JPG "Color Picker Gui")
+
 Features:
 
 - Holding Down Left Control shows colors and Hex Color Code under Mouse Cursor
